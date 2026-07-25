@@ -1,6 +1,6 @@
 # Mohammed
 
-Computer Science Student interested in Data Analysis, Web Development, and Cloud Computing.
+Computer Science Graduate interested in Data Analysis, Web Development, and Cloud Computing.
 
 ## About Me
 
