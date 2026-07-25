@@ -32,6 +32,13 @@ An Excel-based data analysis project focused on organizing, cleaning, and analyz
 - Cloud Computing
 - Data Engineering
 
+## Career Interests
+
+- Data Analysis
+- Business Intelligence
+- Cloud Computing
+- Web Development
+
 ## Contact
 
 - LinkedIn: https://www.linkedin.com/in/mohammedalmajed966
