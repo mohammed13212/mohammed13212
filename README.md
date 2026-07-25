@@ -33,10 +33,6 @@ An Excel-based data analysis project focused on organizing, cleaning, and analyz
 - Data Engineering
 - Advanced SQL
 
-## Contact
-
-- GitHub: https://github.com/mohammed13212
-- LinkedIn: # Mohammed
 
 Computer Science Student interested in Data Analysis, Web Development, and Cloud Computing.
 
